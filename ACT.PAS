@@ -50,7 +50,7 @@ uses crt,dos,crt2,printer;
 {Infine la procedura di cancellazione che si occupa di cancellare il file }
 {di record  dall' interno del programma e di aggiornare il primo campo del }
 {file di configurazione }
-
+{prova}
 
 
 type datiaccettatore=record
