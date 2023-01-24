@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- -->vecchio programma turbo pascal per i dati accettatore di Torricelli
+
 
